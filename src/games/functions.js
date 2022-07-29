@@ -1,4 +1,3 @@
-const { Console } = require("console")
 const Game = require("./table.js")
 
 exports.createGame = async (gameObj) => {
